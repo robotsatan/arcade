@@ -2,7 +2,6 @@
 
 Guide pour construire une borne d'arcade.
 
----
 
 ## Materiels
 
@@ -12,4 +11,4 @@ Guide pour construire une borne d'arcade.
 - Controlleur
 - Speaker
 
----
+## Logiciels
